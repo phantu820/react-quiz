@@ -1,0 +1,21 @@
+/* App.css */
+
+body {
+  background-color: #04a7a7;
+  color: #ffffff;
+}
+
+.app-title {
+  color: #ffffff;
+  margin-top: 2rem;
+}
+
+
+
+.options.correct {
+  color: green;
+}
+
+.options.incorrect {
+  color: red;
+}
